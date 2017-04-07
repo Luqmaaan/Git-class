@@ -1,4 +1,4 @@
-[33mcommit 0ea16e418943be39564e0700a7079e53b3cc1f5c[m
+﻿[33mcommit 0ea16e418943be39564e0700a7079e53b3cc1f5c[m
 Author: Luqmaaan <wluqmaninbox@gmail.com>
 Date:   Fri Apr 7 15:54:56 2017 +0800
 
@@ -30,3 +30,4 @@ Author: لقمان <لقمان>
 Date:   Fri Apr 7 12:31:52 2017 +0800
 
     first init
+..............................................
